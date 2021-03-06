@@ -91,3 +91,43 @@ length(a)
 b <- c("ali", "berk", "can", "duygu", "erdem")
 length(b)
 
+# VEKT??RLERDE SORGULAMA
+v <- c(-20,-10,0,10,20)
+v[v>0]
+v
+
+v[v<10]
+v
+
+v[v!=0]
+v
+
+v[v<0] <- 0
+v
+
+v <- c(-20,-10,0,10,20)
+v[v<0] <- v[v<0] * -1
+v
+
+# VEKT??RLER??N ELEMANLARINI ??IKARTMAK
+v <- c(1,2,3)
+v <- NULL
+v
+
+# VEKT??R ELEMANLARI ??LE ????LEMLER
+v <- c(5,10,25,30,40)
+sum(v)
+min(v)
+max(v)
+mean(v)
+median(v)
+
+v <- c(2,3,5,1,2)
+sort(v)
+v
+v <- sort(v)
+v
+
+# FAKT??RLER
+gruplar <- factor(c("A","B","A","A","B"))
+gruplar
