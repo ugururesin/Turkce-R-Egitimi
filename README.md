@@ -5,23 +5,23 @@
 
 ## İçerik Tablosu
 
-* [01. Numpy Library](https://github.com/ugururesin/Python_Training/blob/master/01_NumPy.ipynb): Fundamental Numpy operations and examples
+* [01. Temel Komutlar](https://github.com/ugururesin/Turkce-R-Egitimi/01_R_Temel_Komutlar.R): Temel syntax ve operatörler  
 
-* [02. Pandas Library](https://github.com/ugururesin/Python_Training/blob/master/02_Pandas.ipynb): Fundamental Pandas operations and examples
+* [02. Vektörler](https://github.com/ugururesin/Turkce-R-Egitimi/02_R_Vektorler.R): Vektör oluşturma ve vektörlerle işlemler  
 
-* [03. DataFrames](https://github.com/ugururesin/Python_Training/blob/master/03_DataFrames.ipynb): Shows DataFrames & Explains Functions
+* [03. Listeler](https://github.com/ugururesin/Turkce-R-Egitimi/03_R_Listeler.R): Liste oluşturma ve listelerle işlemler  
 
-* [04. Functions](https://github.com/ugururesin/Python-Training/blob/master/04_Functions.ipynb): Functions and practical examples of Map, Reduce and Lambda
+* [04. Matrisler ve Diziler](https://github.com/ugururesin/Turkce-R-Egitimi/04_R_Matrisler_ve_Diziler.R): Matris ve dizi yapısında verileri oluşturma ve işleme  
 
-* [05. Flow Control](https://github.com/ugururesin/Python-Training) Coming soon!
+* [05. Tablo Veriler (Dataframes)](https://github.com/ugururesin/Turkce-R-Egitimi/05_R_Tablo_Veriler.R): Tablo formatında veri yapıları oluşturma ve işleme  
 
-* [06. Operators](https://github.com/ugururesin/Python-Training) Coming soon!
+* [06. Akış Kontrolleri](https://github.com/ugururesin/Turkce-R-Egitimi/06_R_Kontrol_Ifadeleri.R): if-else, for, while, repeat-break ve next yapıları  
 
-* [07. Lists, Tuples, Dictionaries](https://github.com/ugururesin/Python-Training) Coming soon!
+* [07. Fonksiyonlar](https://github.com/ugururesin/Turkce-R-Egitimi/07_R_Fonksiyonlar.R): Fonksiyon oluşturma ve fonksiyon türleri
 
-* [08. Clusters](https://github.com/ugururesin/Python-Training) Coming soon!
+* [08. Hata Kontrolü](https://github.com/ugururesin/Turkce-R-Egitimi/08_R_Hata_Kontrolu.R): Hata yönetimi
 
-* [09. Error Handling](https://github.com/ugururesin/Python-Training) Coming soon!
+* [09. Veri Okuma ve Yazma](https://github.com/ugururesin/Turkce-R-Egitimi/09_R_Veri_Okuma_ve_Yazma.R): Veri okuma ve yazma
 
 
 ## Lisans
