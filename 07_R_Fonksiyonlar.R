@@ -81,4 +81,5 @@ daire_analizi <- function(cap){
 daire_analizi(10)
 
 # 7.7 fonksiyon çağırma
-source("/Users/ugururessn/Desktop/ortalama_hesapla.R")
+setwd(current_directory) #bu R kodu hangi dizindeyse, o dizini atayın!
+source("./fonksiyonlar/ortalama_hesapla.R")
