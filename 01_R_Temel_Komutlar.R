@@ -20,9 +20,15 @@ x = 5
 y <- 10
 30 -> z
 
-#Değişken isimleri Türkçe karakter içeremez, sayı veya özel karakter ile başlayamaz!
-sinifmevcudu = 20 #sınıfmevcudu olarak yazılama z!
+
+## Değişken İsimleri
+# Türkçe karakter içeremez!
+# Sayı veya özel karakter ile başlayamaz!
+
+# Aşağıdaki değişken isimleri uygundur:
+sinifmevcudu = 20
 sinif_mevcudu = 30
+
 
 # 1.3. VERi TİPLERİ
 x = 5 #numeric
@@ -39,6 +45,7 @@ class(x) #değişkenin veri tipini söyleyen komut (fonksiyon)
 a = TRUE
 b = FALSE
 
+
 # 1.4 MANTIKSAL OPERAT??RLER
 5 == 5  # == eşitlik operatörü
 5 != 4  # != eşitsizlik operatörü
@@ -51,6 +58,7 @@ a=10
 b=20
 x = a>b
 y = 5==4
+
 
 # 1.5 VERİ TİPLERİNİ DÖNÜŞTÜRME
 a = 10     #numeric
