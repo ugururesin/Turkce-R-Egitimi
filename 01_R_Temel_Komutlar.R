@@ -1,5 +1,9 @@
 # 1. BÖLÜM: TEMEL R KOMUTLARI
 
+# Hashtag (#) ile başlayan satırlar yorum satırıdır!
+# Yorum satırları kullancıya bilgi verir. Bilgisayar tarafından çalıştırılmaz!
+
+
 # 1.1. ARİMETİK OPERATÖRLER: +, -, *, /
 50+10 #toplama
 30-50 #çıkarma
