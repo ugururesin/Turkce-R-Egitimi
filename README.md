@@ -30,5 +30,6 @@ R programlama dilinin temel konularını içermektedir.
 ## Lisans
 Bu repo altındaki tüm içerik [Ugur Uresin](mailto:uresin.ugur@gmail.com) tarafından eğitim amaçlı oluşturulmuştur.  
 Tek başına dökümanlar, her seviyedeki öğrenci için yeterli olmayabilir.  
+
 Kurs talepleriniz için [Ugur Uresin](mailto:uresin.ugur@gmail.com) ile iletişime geçebilirsiniz.  
 Referans verdiğiniz sürece, ticari olmayan kullanıma ve paylaşıma açıktır.  
