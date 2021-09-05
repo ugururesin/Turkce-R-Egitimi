@@ -1,4 +1,5 @@
-# Türkçe R Eğitim Notları - Uğur Üresin
+# Türkçe R Eğitim Notları
+R programlama dilinin temel konularını içermektedir.  
 
 ## İletişim
 * [Uğur Üresin, PhDc.](https://github.com/ugururesin) - [uresin.ugur@gmail.com](mailto:uresin.ugur@gmail.com)
@@ -16,6 +17,7 @@
 * [05. Matrisler ve Diziler](https://github.com/ugururesin/Turkce-R-Egitimi/blob/main/05_R_Matrisler_ve_Diziler.R): Matris ve dizi yapısında verileri oluşturma ve işleme  
 
 * [06. Tablo Veriler (Dataframes)](https://github.com/ugururesin/Turkce-R-Egitimi/blob/main/06_R_Tablo_Veriler.R): Tablo formatında veri yapıları oluşturma ve işleme  
+
 * [07. Akış Kontrolleri](https://github.com/ugururesin/Turkce-R-Egitimi/blob/main/07_R_Kontrol_Ifadeleri.R): if-else, for, while, repeat-break ve next yapıları  
 
 * [08. Fonksiyonlar](https://github.com/ugururesin/Turkce-R-Egitimi/blob/main/08_R_Fonksiyonlar.R): Fonksiyon oluşturma ve fonksiyon türleri
